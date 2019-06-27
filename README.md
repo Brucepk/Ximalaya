@@ -17,3 +17,6 @@
 编辑器：Pycharm
 
 ### 原文请[点击这里查看](https://mp.weixin.qq.com/s?__biz=MzU4NjUxMDk5Mg==&mid=2247484336&idx=1&sn=1a53f496b2b7f8a1c1d9ba496f2f65ed&scene=19#wechat_redirect)
+
+### 源码请[点击这里查看](https://github.com/Brucepk/Ximalaya/blob/master/ximalaya.py)
+
